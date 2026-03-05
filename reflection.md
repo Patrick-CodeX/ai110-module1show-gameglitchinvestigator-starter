@@ -8,7 +8,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
-Response: The hints were wrong and unhelpful.
+Response: The hints were wrong and unhelpful. Even when I wrote the correct answer it wouldn't count it as correct. Though the UI worked the main concept of the game didn't.
 ---
 
 ## 2. How did you use AI as a teammate?
@@ -28,7 +28,7 @@ Response: I used Google AI Studio: I implemented the check guess, as it switched
   and what it showed you about your code.
 - Did AI help you design or understand any tests? How?
 
-Response: I used Pytest, Pytest allows me to see cleanly and nicely how my code ran! 
+Response: I used Pytest, Pytest allows me to see cleanly and nicely how my code ran! AI helped me make pytest files and recreate the logic_util.py file, so it actually works and all the tests work.
 ---
 
 ## 4. What did you learn about Streamlit and state?
